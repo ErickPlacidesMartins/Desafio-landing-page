@@ -1,0 +1,89 @@
+@media (max-width: 1000px) {
+    header {
+        width: 100%;
+    }
+
+    header img {
+        display: none;
+
+    }
+
+    header nav ul li {
+        margin: auto;
+        font-size: 5%;
+        align-items: center;
+
+    }
+
+    main .container-main div {
+        margin: auto;
+    }
+
+    main .container-main img {
+        display: none;
+    }
+
+    h2 {
+        text-align: center;
+        font-size: 1em;
+    }
+
+    h3 {
+        padding: 5%;
+        font-size: 10px;
+        flex-direction: row;
+        font-size: 1em;
+    }
+
+    #socialnetworks img {
+        max-width: 10%;
+        align-items: center;
+    }
+
+    form input {
+        width: 90%;
+        margin: auto;
+    }
+
+    form a {
+        justify-content: left;
+        font-size: 60%;
+        margin-top: 5%;
+    }
+
+    form {
+        display: flex;
+        align-items: center;
+        width: 90%;
+        padding-top: 30px;
+        text-align: center;
+        flex-direction: column;
+    }
+
+    .content a {
+        font-size: 0.7em;
+
+    }
+
+    input {
+        margin: 15px;
+    }
+
+    #form2 {
+        width: 100%;
+    }
+
+    #textarea {
+        margin-top: 5%;
+    }
+
+    #rules {
+        font-size: 80%;
+    }
+
+    footer {
+        margin: auto;
+        font-size: 80%;
+        width: 100%;
+    }
+}
